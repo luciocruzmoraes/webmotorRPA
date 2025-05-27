@@ -1,0 +1,48 @@
+Nome,Ano,Km,Local,Preço,Link
+FORD FIESTA 1.6 Mpi Sedan 8v Flex 4p Manual,2012/2012,100.258 Km,Nova Iguaçu (RJ),R$ 27.799,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-sedan-8v-flex-4p-manual/4-portas/2012/57933845
+FORD FIESTA 1.6 Titanium Sedan 16v Flex 4p Powershift,2013/2014,119.227 Km,Porto Alegre (RS),R$ 42.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-titanium-sedan-16v-flex-4p-powershift/4-portas/2013-2014/59199686
+FORD FIESTA 1.6 Rocam Hatch 8v Flex 4p Manual,2013/2014,160.000 Km,Campinas (SP),R$ 35.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-rocam-hatch-8v-flex-4p-manual/4-portas/2013-2014/59143376
+FORD FIESTA 1.0 Rocam Hatch 8v Flex 4p Manual,2011/2012,130.000 Km,Jundiaí (SP),R$ 34.900,https://www.webmotors.com.br/comprar/ford/fiesta/10-rocam-hatch-8v-flex-4p-manual/4-portas/2011-2012/59121595
+FORD FIESTA 1.6 Se Hatch 16v Flex 4p Powershift,2014/2015,135.285 Km,Mauá (SP),R$ 45.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-hatch-16v-flex-4p-powershift/4-portas/2014-2015/59108192
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2015/2015,75.600 Km,Campinas (SP),R$ 49.900,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2015/59165075
+FORD FIESTA 1.6 Sel Hatch 16v Flex 4p Powershift,2017/2017,83.500 Km,São Paulo (SP),R$ 52.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-sel-hatch-16v-flex-4p-powershift/4-portas/2017/59215486
+FORD FIESTA 1.6 Ti-Vct Flex Titanium Powershift,2017/2018,98.500 Km,Ribeirão Preto (SP),R$ 62.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-titanium-powershift/4-portas/2017-2018/59170938
+FORD FIESTA 1.6 Se Sedan 16v Flex 4p Manual,2013/2014,82.301 Km,Rio Branco (AC),R$ 37.000,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-sedan-16v-flex-4p-manual/4-portas/2013-2014/59206823
+FORD FIESTA 1.6 Ti-Vct Flex Titanium Powershift,2018/2018,67.855 Km,Belo Horizonte (MG),R$ 60.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-titanium-powershift/4-portas/2018/59214442
+FORD FIESTA 1.6 Se Hatch 16v Flex 4p Powershift,2014/2015,109.906 Km,Osasco (SP),R$ 41.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-hatch-16v-flex-4p-powershift/4-portas/2014-2015/59010377
+FORD FIESTA 1.6 Mpi Sedan 8v Flex 4p Manual,2012/2012,100.258 Km,Rio de Janeiro (RJ),R$ 27.799,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-sedan-8v-flex-4p-manual/4-portas/2012/58453066
+FORD FIESTA 1.6 Ti-Vct Flex Sel Powershift,2018/2018,68.000 Km,São Paulo (SP),R$ 56.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-sel-powershift/4-portas/2018/58931455
+FORD FIESTA 1.6 Mpi Class Hatch 8v Flex 4p Manual,2010/2011,143.000 Km,Valinhos (SP),R$ 29.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-class-hatch-8v-flex-4p-manual/4-portas/2010-2011/58822335
+FORD FIESTA 1.6 Titanium Hatch 16v Flex 4p Manual,2013/2014,150.000 Km,Guarulhos (SP),R$ 43.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-titanium-hatch-16v-flex-4p-manual/4-portas/2013-2014/58915103
+FORD FIESTA 1.0 Mpi Sedan 8v Flex 4p Manual,2009/2009,154.434 Km,Limeira (SP),R$ 26.990,https://www.webmotors.com.br/comprar/ford/fiesta/10-mpi-sedan-8v-flex-4p-manual/4-portas/2009/58690635
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2014/2014,104.639 Km,Rio de Janeiro (RJ),R$ 34.799,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2014/58366742
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2014/2014,104.747 Km,Barra Mansa (RJ),R$ 34.799,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2014/58853719
+FORD FIESTA 1.6 Sel Sedan 16v Flex 4p Powershift,2017/2017,93.000 Km,Araguari (MG),R$ 49.500,https://www.webmotors.com.br/comprar/ford/fiesta/16-sel-sedan-16v-flex-4p-powershift/4-portas/2017/58995690
+FORD FIESTA 1.6 Mpi Class Hatch 8v Flex 4p Manual,2011/2011,117.000 Km,Conchas (SP),R$ 32.800,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-class-hatch-8v-flex-4p-manual/4-portas/2011/58468738
+FORD FIESTA 1.0 Ecoboost Gasolina Sel Powershift,2018/2018,47.800 Km,São Paulo (SP),R$ 60.990,https://www.webmotors.com.br/comprar/ford/fiesta/10-ecoboost-gasolina-sel-powershift/4-portas/2018/59116531
+FORD FIESTA 1.0 Ecoboost Gasolina Sel Powershift,2018/2018,47.186 Km,São Paulo (SP),R$ 60.990,https://www.webmotors.com.br/comprar/ford/fiesta/10-ecoboost-gasolina-sel-powershift/4-portas/2018/59219176
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2013/2014,95.000 Km,São José (SC),R$ 42.888,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2013-2014/59005871
+FORD FIESTA 1.0 Rocam Hatch 8v Flex 4p Manual,2013/2014,145.200 Km,Guarulhos (SP),R$ 34.900,https://www.webmotors.com.br/comprar/ford/fiesta/10-rocam-hatch-8v-flex-4p-manual/4-portas/2013-2014/58871502
+FORD FIESTA 1.6 Titanium Hatch 16v Flex 4p Powershift,2015/2016,68.042 Km,São Paulo (SP),R$ 51.800,https://www.webmotors.com.br/comprar/ford/fiesta/16-titanium-hatch-16v-flex-4p-powershift/4-portas/2015-2016/58905577
+FORD FIESTA 1.6 Ti-Vct Flex Titanium Powershift,2017/2018,89.536 Km,Osasco (SP),R$ 62.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-titanium-powershift/4-portas/2017-2018/59154575
+FORD FIESTA 1.0 Rocam Hatch 8v Flex 4p Manual,2011/2012,125.910 Km,São Paulo (SP),R$ 31.900,https://www.webmotors.com.br/comprar/ford/fiesta/10-rocam-hatch-8v-flex-4p-manual/4-portas/2011-2012/59127702
+FORD FIESTA 1.6 Se Hatch 16v Flex 4p Manual,2014/2014,1.111.111 Km,São Bernardo do Campo (SP),R$ 52.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-hatch-16v-flex-4p-manual/4-portas/2014/59054021
+FORD FIESTA 1.0 Ecoboost Gasolina Sel Powershift,2018/2018,97.600 Km,Campinas (SP),R$ 58.690,https://www.webmotors.com.br/comprar/ford/fiesta/10-ecoboost-gasolina-sel-powershift/4-portas/2018/58372494
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2014/2014,104.747 Km,Rio de Janeiro (RJ),R$ 31.599,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2014/54668671
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2015/2015,117.029 Km,Rio de Janeiro (RJ),R$ 37.199,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2015/58457419
+FORD FIESTA 1.0 Rocam Hatch 8v Flex 4p Manual,2014/2014,87.584 Km,Nova Iguaçu (RJ),R$ 27.499,https://www.webmotors.com.br/comprar/ford/fiesta/10-rocam-hatch-8v-flex-4p-manual/4-portas/2014/57287660
+FORD FIESTA 1.6 Mpi Sedan 8v Flex 4p Manual,2012/2012,100.258 Km,Rio de Janeiro (RJ),R$ 27.799,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-sedan-8v-flex-4p-manual/4-portas/2012/57617022
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2014/2015,117.029 Km,Nova Iguaçu (RJ),R$ 36.199,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2014-2015/57287658
+FORD FIESTA 1.6 Titanium Hatch 16v Flex 4p Powershift,2014/2015,115.608 Km,São Paulo (SP),R$ 41.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-titanium-hatch-16v-flex-4p-powershift/4-portas/2014-2015/58903303
+FORD FIESTA 1.5 S Hatch 16v Flex 4p Manual,2014/2014,104.747 Km,Rio de Janeiro (RJ),R$ 34.799,https://www.webmotors.com.br/comprar/ford/fiesta/15-s-hatch-16v-flex-4p-manual/4-portas/2014/54881221
+FORD FIESTA 1.6 Ti-Vct Flex Sel Powershift,2017/2018,69.895 Km,São Paulo (SP),R$ 55.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-sel-powershift/4-portas/2017-2018/59185475
+FORD FIESTA 1.6 Se Sedan 16v Flex 4p Powershift,2013/2014,108.883 Km,São Bernardo do Campo (SP),R$ 41.880,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-sedan-16v-flex-4p-powershift/4-portas/2013-2014/58952446
+FORD FIESTA 1.6 Sel Hatch 16v Flex 4p Powershift,2016/2016,66.551 Km,São Paulo (SP),R$ 50.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-sel-hatch-16v-flex-4p-powershift/4-portas/2016/59118734
+FORD FIESTA 1.5 Se Hatch 16v Flex 4p Manual,2015/2015,98.001 Km,Araraquara (SP),R$ 43.990,https://www.webmotors.com.br/comprar/ford/fiesta/15-se-hatch-16v-flex-4p-manual/4-portas/2015/58735663
+FORD FIESTA 1.6 Rocam Se Sedan 8v Flex 4p Manual,2013/2014,3.500 Km,Rio de Janeiro (RJ),R$ 48.990,https://www.webmotors.com.br/comprar/ford/fiesta/16-rocam-se-sedan-8v-flex-4p-manual/4-portas/2013-2014/53487974
+FORD FIESTA 1.6 Se Hatch 16v Flex 4p Manual,2011/2012,145.000 Km,Foz do Iguaçu (PR),R$ 33.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-hatch-16v-flex-4p-manual/4-portas/2011-2012/49254841
+FORD FIESTA 1.6 Ti-Vct Flex Sel Powershift,2018/2018,120.000 Km,São Paulo (SP),R$ 52.900,https://www.webmotors.com.br/comprar/ford/fiesta/16-ti-vct-flex-sel-powershift/4-portas/2018/20202703
+FORD FIESTA 1.6 Se Sedan 16v Flex 4p Powershift,2014/2015,58.707 Km,Maceió (AL),R$ 39.000,https://www.webmotors.com.br/comprar/ford/fiesta/16-se-sedan-16v-flex-4p-powershift/4-portas/2014-2015/59016914
+FORD FIESTA 1.6 Titanium Hatch 16v Flex 4p Powershift,2014/2014,97.965 Km,Cuiabá (MT),R$ 38.500,https://www.webmotors.com.br/comprar/ford/fiesta/16-titanium-hatch-16v-flex-4p-powershift/4-portas/2014/58537241
+FORD FIESTA 1.6 Mpi Sedan 8v Flex 4p Manual,2010/2011,95.000 Km,Rondonópolis (MT),R$ 27.800,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-sedan-8v-flex-4p-manual/4-portas/2010-2011/57776866
+FORD FIESTA 1.6 Mpi Class Sedan 8v Flex 4p Manual,2009/2009,200.000 Km,Cruzeiro (SP),R$ 23.000,https://www.webmotors.com.br/comprar/ford/fiesta/16-mpi-class-sedan-8v-flex-4p-manual/0-portas/2009/58757542

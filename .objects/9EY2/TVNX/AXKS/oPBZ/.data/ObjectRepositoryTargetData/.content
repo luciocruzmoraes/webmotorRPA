@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ZB5AyGW3QkqRaoC7q8_nfQ" Reference="2-7PSPjaIkGY0R5Tw7NTNw/oPBZ80CdJk-pwAjzuNC--Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="D9PaIed3DES0h8XUxo6iAg" Reference="2-7PSPjaIkGY0R5Tw7NTNw/oPBZ80CdJk-pwAjzuNC--Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.webmotors.com.br/carros/estoque/ford/ka?autocomplete=ford%20ka&amp;autocompleteTerm=FORD%20KA&amp;lkid=1705&amp;tipoveiculo=carros&amp;marca1=FORD&amp;modelo1=KA&amp;page=1" ContentHash="fjNQ9J334UOnjp_J7E9hrw" DesignTimeRectangle="543, 381, 1020, 5633" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='MAIN' /&gt;" Guid="6ac194a6-a8b6-421f-9eeb-23774187546b" Reference="2-7PSPjaIkGY0R5Tw7NTNw/oPBZ80CdJk-pwAjzuNC--Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ford Ka: Carros usados, seminovos e novos' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="7cf0b5be7fa7a9f86010c4958c5822f5.png" xmlns="">0L0FY7z-SQUyWY_6ke0-kaw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.webmotors.com.br/carros/estoque/ford/fiesta?autocomplete=ford%20fiesta&amp;autocompleteTerm=FORD%20FIESTA&amp;lkid=1705&amp;tipoveiculo=carros&amp;marca1=FORD&amp;modelo1=FIESTA&amp;page=1" ContentHash="0iwngDrKWkKQcC1Ky2mJIw" DesignTimeRectangle="543, 381, 1020, 5783" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='MAIN' /&gt;" Guid="025d2d12-ef04-477b-b0fc-da6e7085f355" Reference="2-7PSPjaIkGY0R5Tw7NTNw/oPBZ80CdJk-pwAjzuNC--Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ford Fiesta: Carros usados, seminovos e novos' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1fe417be10c2db96a79998ae3e7bae2b.png" xmlns="">0DUEGKPMtNUm5ltesRoOD5g</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">ExtractData</x:String>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
@@ -11,6 +11,13 @@
 		&lt;ValidationErrorMessage /&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='url'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
 &lt;/Table&gt;</p:InArgument>
